@@ -1,0 +1,22 @@
+
+######## HOW TO RUN:
+
+sh run.sh
+
+
+######## crea in InsertFiles una lista di script sql da usare nel db con le entry dei certificati spartiti in questo modo:
+
+900000 - 901500"
+901501 - 902999"
+903000 - 904999"
+905000 - 906999"
+907000 - 908999"
+909000 - 911999"
+912000 - 915000"
+
+
+
+
+
+
+
