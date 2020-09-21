@@ -27,5 +27,5 @@ client.on_message = on_message
 print(" ")
 print(len(msg_list))
 print(" ")
-client.connect('192.168.22.64', 1883)
+client.connect('192.168.22.164', 1883)
 client.loop_forever()
